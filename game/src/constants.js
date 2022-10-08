@@ -13,5 +13,10 @@ const greetings = [
     'It\'s crystal clear',
     'That now I\'m in a whole new world with you',
     'A(Now I\'m in a whole new world with you)',
-
+    'Yeet!',
+    'Maybe if it was more aerodynamic it could\'ve gone further...',
+    'Is that the best you can do?',
+    'Get ready to fly!',
+    'Open up the sky',
+    'Let\'s Go!!!'
 ];
