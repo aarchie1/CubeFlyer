@@ -6,5 +6,12 @@ const greetings = [
     'It\'s a plane!',
     '1000% more Cube!',
     'A Whole New Dimension!',
-    'Its a Whole new World'
+    'Its a Whole new World',
+    'A whole new world',
+    'A dazzling place I never knew',
+    'But when I\'m way up here',
+    'It\'s crystal clear',
+    'That now I\'m in a whole new world with you',
+    'A(Now I\'m in a whole new world with you)',
+
 ];
